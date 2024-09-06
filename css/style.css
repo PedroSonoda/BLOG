@@ -1,0 +1,8 @@
+.BLOG{display: flex;
+gap: 30px;
+justify-content: center;
+}
+section{
+    background-color: rgb(223, 221, 199);
+    height: calc(100vh - 146px);
+}
